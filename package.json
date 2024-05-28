@@ -1,5 +1,5 @@
 {
-  "homepage": "https://naresh2060.github.io/Newsapp",
+  "homepage": "https://naresh2060.github.io/Newsapp/",
   "name": "newsapp",
   "version": "0.1.0",
   "private": true,
@@ -12,6 +12,7 @@
     "react-infinite-scroll-component": "^6.1.0",
     "react-router-dom": "^6.23.1",
     "react-scripts": "5.0.1",
+    "react-top-loading-bar": "^2.3.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
